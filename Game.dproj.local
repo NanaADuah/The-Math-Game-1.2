@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/01 18:51:46.315.pas,C:\Users\Nana\Documents\RAD Studio\Projects\Unit24.pas=C:\Users\Nana\Documents\RAD Studio\Projects\Guess Game\NumberGuesser.pas</Transaction>
+    <Transaction>2018/09/01 18:51:54.444.pas,C:\Users\Nana\Documents\RAD Studio\Projects\Unit23.pas=C:\Users\Nana\Documents\RAD Studio\Projects\Guess Game\GameNumberGuesser.pas</Transaction>
+    <Transaction>2018/09/01 18:51:54.444.dfm,C:\Users\Nana\Documents\RAD Studio\Projects\Unit23.dfm=C:\Users\Nana\Documents\RAD Studio\Projects\Guess Game\GameNumberGuesser.dfm</Transaction>
+    <Transaction>2018/09/01 18:51:58.359.dproj,C:\Users\Nana\Documents\RAD Studio\Projects\Project25.dproj=C:\Users\Nana\Documents\RAD Studio\Projects\Guess Game\Game.dproj</Transaction>
+    <Transaction>2019/03/17 10:04:18.258.pas,E:\321 Applications\Guess Game\Unit1.pas=E:\321 Applications\Guess Game\HelpSection.pas</Transaction>
+    <Transaction>2019/03/17 10:04:18.280.dfm,E:\321 Applications\Guess Game\Unit1.dfm=E:\321 Applications\Guess Game\HelpSection.dfm</Transaction>
+    <Transaction>2019/03/17 13:42:40.291.pas,E:\321 Applications\Guess Game\Unit1.pas=E:\321 Applications\Guess Game\BGColour.pas</Transaction>
+    <Transaction>2019/03/17 13:42:40.296.dfm,E:\321 Applications\Guess Game\Unit1.dfm=E:\321 Applications\Guess Game\BGColour.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
